@@ -3,4 +3,4 @@
 
 #概要
 *1:诞生
-![linear](https://github.com/hide-on-bushy/networkpage/blob/main/test1/v2-f5def1375b81969bc249f6d5d645a2f5_r.jpg)
+[起源](https://github.com/hide-on-bushy/networkpage/blob/main/test1/v2-f5def1375b81969bc249f6d5d645a2f5_r.jpg)
